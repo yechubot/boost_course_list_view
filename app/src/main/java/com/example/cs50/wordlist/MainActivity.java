@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public long getItemId(int position) {
-            return position; //아ㅇ디 있다면 넘겨줌
+            return position; //아이디 있다면 넘겨줌
         }
 
         //데이터 관리하는 어댑터가 뷰도 만들어줘!
